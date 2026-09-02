@@ -2,26 +2,26 @@
 
 ## My Name
 
-Write your name.
+SHAKTHIVEL 
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
-
+I learned the basics of programming.
 ## Why I Selected Python
 
-Write your reason in your own words.
+I selected Python because it is easy to learn and widely used in software and automation.
 
 ## My Career Goal
 
-Write the role you want to achieve.
+My career goal is to become a Software Developer.
 
 ## What I Understood Today
 
 Complete these sentences:
 
-Programming means:
+Programming means: Giving instructions to a computer.
 
-Python is:
 
-In this track, I will learn:
+Python is: An easy and powerful programming language.
+
+In this track, I will learn: : Python programming and problem-solving.
