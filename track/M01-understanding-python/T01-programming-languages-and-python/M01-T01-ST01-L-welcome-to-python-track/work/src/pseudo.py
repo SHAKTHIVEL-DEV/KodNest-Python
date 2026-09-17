@@ -1,6 +1,6 @@
 # To print Hello World 
 from os import read
-show "Hello World "
+show "Hello World " 
 # To find whesther number (n) is even or odd 
 read n
 if n % 2==0 

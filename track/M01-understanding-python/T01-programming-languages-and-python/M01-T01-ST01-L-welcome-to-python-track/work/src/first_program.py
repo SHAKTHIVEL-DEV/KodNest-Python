@@ -4,6 +4,7 @@ print("my age is 21")
 print("I am from Bengaluru")
 print("My favorite programming language is: Python")
 print("The message: My 1 week of Python journey has been amazing and I gained more knowledge about Python.")
+
 print("*")
 print("**")
 print("***")
