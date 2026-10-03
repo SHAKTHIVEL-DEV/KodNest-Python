@@ -49,13 +49,13 @@ print(s[-1:0:-1])
 print(s[-7:])
 
 s = "Python"
-print(s[-1])
-print(s[-2])
+print(s[-1])#n
+print(s[-2])#o
 
-print(s[-3])
-print(s[-6])
-print(s[-3:])
-print(s[-2:])
+print(s[-3])#h
+print(s[-6])#p
+print(s[-3:])#hon
+print(s[-2:])#
 print(s[-1:])
 print(s[:-1])
 print(s[:-2])
