@@ -34,7 +34,7 @@ print(s1)
 
 #constructor of set 
 s2=set()
-s3=set(1,2,3,4,5) 
+s3=set([1,2,3,4,5])
 print(s3) 
 # loop 
 for n in s3: 
