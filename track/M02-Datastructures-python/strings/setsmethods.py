@@ -29,4 +29,4 @@ print(set1.issubset(set2))# return True if set1 is a subset of set2
 #issuperset
 print(set1.issuperset(set2))#return True if set1 is a superset of set2   
 #isdisjoint
-print(set1.isdisjoint(set2))# Return True if set1 and set2 have no common elements 
+print(set1.isdisjoint(set2))# Return True if set1 and set2 have no common elements
