@@ -15,4 +15,4 @@ student = {
 } 
 print(student["name"])
 print(student["age"])
-print(student)
+print(student["course"])
