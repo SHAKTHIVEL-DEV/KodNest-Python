@@ -27,7 +27,7 @@ x = 25 # Globle variable
 def employee():
     name = "vel" # local variable 
     print(name)
-    print(x) # local variable 
-employee()  
+    print(x) # local variable  
+    employee()  
 x = 21 # reasening valuese  
-print(x)     
+print(x)      
