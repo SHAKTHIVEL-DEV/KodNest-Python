@@ -58,7 +58,7 @@ class student:
        return self.mark * other.mark 
 
 s1 = student(20)
-s2 = student(60)
+s2 = student(60) 
 
 print(s1 + s2)
 print(s1 * s2)  
@@ -76,7 +76,12 @@ p2 = preson("VEL",21)
 if p1 > p2:
     print(f"{p1.name}give treat")
 else:
-    print(f"{p2.name} give treat") 
+    print(f"{p2.name} give treat")   
+
+
+    
+
+
 
 
 
