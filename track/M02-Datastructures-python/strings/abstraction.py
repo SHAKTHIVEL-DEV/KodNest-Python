@@ -20,7 +20,7 @@ class Car(Vehicle):
     @abstractmethod 
     def stop(self):
         print("Car stopped") 
-
+ 
 #concrete class         
 
 class SportsCar(Car):
