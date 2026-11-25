@@ -115,4 +115,4 @@ c.wheels()
 # Multiple         Many Parents -> 1 Child
 # Multilevel       Chain (Grandparent -> Parent -> Child)
 # Hierarchical     1 Parent -> Many Children
-# Hybrid           Combination of above
+# Hybrid           Combination of aboveggi
